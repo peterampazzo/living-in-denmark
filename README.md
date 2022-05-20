@@ -19,6 +19,7 @@ They are mostly in Danish, otherwise it's specified 😉
 * [B.T.](https://www.bt.dk/)
 * [The Local](https://www.thelocal.dk/) 🇬🇧
 * [DanWatch](https://www.danwatch.dk/)
+* [Your Danish Life](https://www.yourdanishlife.dk/) 🇬🇧
 
 ### Local News
 * [København Liv](https://kobenhavnliv.dk/)
