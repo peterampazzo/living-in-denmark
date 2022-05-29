@@ -5,6 +5,9 @@ It's been I while. Collecting useful links, websites or resources while living i
 Whatever I could have found useful.
 They are mostly in Danish, otherwise it's specified 😉
 
+## Living
+* [Hvor meget efter skat](http://hvormegetefterskat.dk/)
+
 ## What's up? 🗞️ 
 
 ### TV and News
@@ -61,8 +64,35 @@ Nej, there's no Amazon here eheh
 ### Mix 🪣
 * [RugVista](https://rugvista.dk)
 
+## Københavns Facebook Groups
+* [Expats in Copenhagen](https://www.facebook.com/groups/1408252362776505)
+* [Free Your Stuff Copenhagen](https://www.facebook.com/groups/freethestuffcph)
+* [Aktive fritidssejlere i Københavns Havn](https://www.facebook.com/groups/281758785777993/)
+## Housing
+### Search Engines
+* [Propstep](https://propstep.com/)
+* [BoligPortal](https://www.boligportal.dk)
+* [Find Roommate](https://www.findroommate.dk/)
+* [Home.DK](https://home.dk/)
+* [Housing Denmark](https://housingdenmark.com/en/premium)
+
+### Real Estate Agencies
+* [Findbolig.nu](https://findbolig.nu/)
+* [Heimstaden](https://www.heimstaden.dk/)
+* [Domea](https://www.domea.dk/)
+* [Copenhagen Capital](https://copenhagencapital.dk/)
+* [Dansk Boligformidling](https://www.danskboligformidling.dk/)
+* [Ejendomskontoret](https://www.ejendomskontoret.dk/)
+* [Homes And Housing](https://homesandhousing.dk/)
+
+### Student Housing
+* [Umeus](https://en.umeus.dk/)
+* [BDTU](https://bdtu.dk )
+* [Pulse Living](https://www.pulseliving.dk/)
+
 ## Learn Danish 🥔
 
 * [List with most common verbs](http://fjern-uv.dk/250.pdf)
 * [Pronunciation](https://duda.dk/video/dansk/udtale/)
 * [Danish Here and Now, _Dansk Her og Nu_](https://danskherognu.dk/)
+* [How to be polite](https://www.kbh-sprogcenter.dk/en/blog/polite-in-danish/)
