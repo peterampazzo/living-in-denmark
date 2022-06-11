@@ -90,6 +90,16 @@ Nej, there's no Amazon here eheh
 * [BDTU](https://bdtu.dk )
 * [Pulse Living](https://www.pulseliving.dk/)
 
+### Facebook Groups
+* [Accommodation in Copenhagen](https://www.facebook.com/groups/166820836821223/)
+* [Accommodation / Housing in Copenhagen](https://www.facebook.com/groups/806763839346160/)
+* [Lejligheder, værelser til leje og udleje i KBH V. NV. Ø. N, S og K](https://www.facebook.com/groups/46683458652)
+* [Lejligheder til salg og leje i København](https://www.facebook.com/groups/46683458652)
+* [Ledige lejligheder i København - Omegn](https://www.facebook.com/groups/903433176531524)
+* [LejeBolig i København, Housing for rent in CPH, Lejlighed, Værelse, Hus](https://www.facebook.com/groups/RentCopen)
+* [Lejligheder til salg og leje i København](https://www.facebook.com/groups/boligjunglen)
+* [bytte lejlighed Frederiksberg](https://www.facebook.com/groups/1448296145241327)
+
 ## Learn Danish 🥔
 
 * [List with most common verbs](http://fjern-uv.dk/250.pdf)
