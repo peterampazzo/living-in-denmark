@@ -64,6 +64,10 @@ Nej, there's no Amazon here eheh
 * [Føtex](https://hjem.foetex.dk/)
 * [REMA 1000](https://shop.rema1000.dk/)
 
+## Fruit & vegetables  
+* [Økologisk lagersalg hos Aarstiderne på BaneGaarden](https://www.facebook.com/events/1005953666699724/)
+* [Grønt Marked](https://www.groentmarked.dk/)
+
 ## Stores
 
 ### Sporting/Outdoor
