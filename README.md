@@ -6,7 +6,17 @@ Whatever I could have found useful.
 They are mostly in Danish, otherwise it's specified 😉
 
 ## Living
+* [borger.dk](https://www.borger.dk/) _Change of address, change of GP, Digital Post_
+* [Email Konsultation](https://emailkonsultation.dk) _Web portal for emailing your GP_
+* [mit.dk](https://mit.dk/en) _Digital Post (new version of e-boks)_
+* [MitID](https://www.mitid.dk/en-gb/) _Digital Identity (former one - still in use - was called NemID)_
 * [Hvor meget efter skat](http://hvormegetefterskat.dk/)
+
+### Mobile Apps 📱
+<!-- * [Min App](https://minapp.dk/) ([App Store]() / [Play Store]()) -->
+* [Min Læge](https://minlaegeapp.dk/) ([App Store](https://apps.apple.com/dk/app/min-l%C3%A6ge/id1445003295) / [Play Store](https://play.google.com/store/apps/details?id=com.trifork.minlaege)) _Emailing to GP, book appointment, video consultation_
+* [Min Sundhed](https://www.sundhed.dk/borger/guides/apps-i-sundhedsvaesenet/apps-fra-sundhedsvaesenet-borger/) ([App Store](https://apps.apple.com/dk/app/minsundhed-dk/id1453504446?l=da) / [Play Store](https://play.google.com/store/apps/details?id=dk.sundhed.minsundhed))
+* [Sundhedskort](https://www.borger.dk/sundhed-og-sygdom/sygesikring-og-laegevalg/sundhedskort-app) ([App Store](https://apps.apple.com/dk/app/sundhedskortet/id1553871328) / [Play Store](https://play.google.com/store/apps/details?id=dk.digst.hc)) _Digital Yellow Card_
 
 ## What's up? 🗞️ 
 
@@ -21,7 +31,7 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Ekstra Bladet](https://ekstrabladet.dk/)
 * [B.T.](https://www.bt.dk/)
 * [The Local](https://www.thelocal.dk/) 🇬🇧
-* [DanWatch](https://www.danwatch.dk/)
+* [DanWatch](https://danwatch.dk/)
 * [Your Danish Life](https://www.yourdanishlife.dk/) 🇬🇧
 
 ### Local News
@@ -68,6 +78,7 @@ Nej, there's no Amazon here eheh
 * [Expats in Copenhagen](https://www.facebook.com/groups/1408252362776505)
 * [Free Your Stuff Copenhagen](https://www.facebook.com/groups/freethestuffcph)
 * [Aktive fritidssejlere i Københavns Havn](https://www.facebook.com/groups/281758785777993/)
+
 ## Housing
 ### Search Engines
 * [Propstep](https://propstep.com/)
