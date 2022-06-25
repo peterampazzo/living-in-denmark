@@ -11,12 +11,15 @@ They are mostly in Danish, otherwise it's specified 😉
 * [mit.dk](https://mit.dk/en) _Digital Post (new version of e-boks)_
 * [MitID](https://www.mitid.dk/en-gb/) _Digital Identity (former one - still in use - was called NemID)_
 * [Hvor meget efter skat](http://hvormegetefterskat.dk/)
+* [Rejseplaner](https://www.rejseplanen.dk/webapp/?language=en_EN)
+* [Tinglysning](https://www.tinglysning.dk/tmv/forespoergul) _Public registry real estate, cooperative housing, vehicles_
 
 ### Mobile Apps 📱
 <!-- * [Min App](https://minapp.dk/) ([App Store]() / [Play Store]()) -->
 * [Min Læge](https://minlaegeapp.dk/) ([App Store](https://apps.apple.com/dk/app/min-l%C3%A6ge/id1445003295) / [Play Store](https://play.google.com/store/apps/details?id=com.trifork.minlaege)) _Emailing to GP, book appointment, video consultation_
 * [Min Sundhed](https://www.sundhed.dk/borger/guides/apps-i-sundhedsvaesenet/apps-fra-sundhedsvaesenet-borger/) ([App Store](https://apps.apple.com/dk/app/minsundhed-dk/id1453504446?l=da) / [Play Store](https://play.google.com/store/apps/details?id=dk.sundhed.minsundhed))
 * [Sundhedskort](https://www.borger.dk/sundhed-og-sygdom/sygesikring-og-laegevalg/sundhedskort-app) ([App Store](https://apps.apple.com/dk/app/sundhedskortet/id1553871328) / [Play Store](https://play.google.com/store/apps/details?id=dk.digst.hc)) _Digital Yellow Card_
+* [DOT Tickets](https://dinoffentligetransport.dk/tourist/tickets/) ([App Store](https://apps.apple.com/gb/app/dot-tickets/id582247244) / [Play Store](https://play.google.com/store/apps/details?id=com.cellpointmobile.mticket.travelcard.dsb))
 
 ## What's up? 🗞️ 
 
@@ -57,16 +60,40 @@ They are mostly in Danish, otherwise it's specified 😉
 * [TV2 Vejr](https://vejr.tv2.dk/)
 * [YR](https://www.yr.no/en)
 
-## Online Grocery Shopping 🛒
+## Grocery
+### Online Shopping 🛒
 Nej, there's no Amazon here eheh
 * [Nemlig](https://www.nemlig.com/)
 * [Gorillas](https://gorillas.io/en)
 * [Føtex](https://hjem.foetex.dk/)
 * [REMA 1000](https://shop.rema1000.dk/)
 
-## Fruit & vegetables  
+### Fruit & vegetables  
 * [Økologisk lagersalg hos Aarstiderne på BaneGaarden](https://www.facebook.com/events/1005953666699724/)
 * [Grønt Marked](https://www.groentmarked.dk/)
+
+## Moving 🚆
+
+* [CPH Airport Realtime Queue](https://www.cph.dk/en)
+
+### Bike / Scooter
+
+* [Swapfiets](https://swapfiets.dk/en-DK)
+* [Donkey Republic](https://www.donkey.bike/)
+* [VOI Scooters](https://www.voiscooters.com/)
+
+### Car rental / Carsharing
+
+* [Green Mobility](https://www.greenmobility.com/dk/en/)
+* [Share-Now](https://www.share-now.com/dk/en/)
+* [GoMore](https://gomore.dk/)
+* [Lej Et Lig](https://www.lejetlig.dk/)
+
+### Taxi 🚕
+
+* [Taxa](https://taxa.dk/en/)
+* [DanTaxi](https://dantaxi.dk/english/)
+* [DRIVR](https://drivr.com/)
 
 ## Stores
 
@@ -115,7 +142,7 @@ Nej, there's no Amazon here eheh
 * [Lejligheder til salg og leje i København](https://www.facebook.com/groups/boligjunglen)
 * [bytte lejlighed Frederiksberg](https://www.facebook.com/groups/1448296145241327)
 
-## Learn Danish 🥔
+## Hvad siger du?! 🥔
 
 * [List with most common verbs](http://fjern-uv.dk/250.pdf)
 * [Pronunciation](https://duda.dk/video/dansk/udtale/)
