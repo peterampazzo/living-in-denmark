@@ -8,11 +8,16 @@ They are mostly in Danish, otherwise it's specified 😉
 ## Living
 * [borger.dk](https://www.borger.dk/) _Change of address, change of GP, Digital Post_
 * [Email Konsultation](https://emailkonsultation.dk) _Web portal for emailing your GP_
+* [Aftalebogen](https://aftalebogen.dk)  _Web portal for booking appointments with your GP_
 * [mit.dk](https://mit.dk/en) _Digital Post (new version of e-boks)_
 * [MitID](https://www.mitid.dk/en-gb/) _Digital Identity (former one - still in use - was called NemID)_
 * [Hvor meget efter skat](http://hvormegetefterskat.dk/)
 * [Rejseplaner](https://www.rejseplanen.dk/webapp/?language=en_EN)
 * [Tinglysning](https://www.tinglysning.dk/tmv/forespoergul) _Public registry real estate, cooperative housing, vehicles_
+
+## FAQ
+* [Notify change of address](https://lifeindenmark.borger.dk/ActionPage?selfserviceId=ab3a677f-b00b-47a5-83ae-df60841de47b)
+* [Request new sundhedskort](https://www.borger.dk/Handlingsside?selfserviceId=145a2083-c205-407f-bf6c-512d41376077) (yellow card) _Bestil nyt sundhedskort_
 
 ### Mobile Apps 📱
 <!-- * [Min App](https://minapp.dk/) ([App Store]() / [Play Store]()) -->
@@ -53,6 +58,8 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Københavns Politi](https://twitter.com/KobenhavnPoliti) _Covers the municipalities of Frederiksberg, Tårnby, Dragør and Copenhagen_
 * [Vestegnens Politi](https://twitter.com/VestegnsPoliti) _Covers the municipalities Albertslund, Ballerup, Brøndby, Glostrup, Gladsaxe, Herlev, Hvidovre, Høje-Taastrup, Ishøj, Rødovre and Vallensbæk_
 * [Trafikinformation](https://twitter.com/MetroenKBH) _Copenhagen Metro news_
+* [TrafikkenHovedstaden](https://twitter.com/trafikhovedstad)
+* [Presse-fotos.dk](https://twitter.com/pressefotosdk)
 * [DK Pol](https://twitter.com/i/lists/704961335885303810) _Danish Politics list_
 
 ## Denmark + Rain = Danish Weather 🌧️
@@ -126,11 +133,15 @@ Nej, there's no Amazon here eheh
 * [Dansk Boligformidling](https://www.danskboligformidling.dk/)
 * [Ejendomskontoret](https://www.ejendomskontoret.dk/)
 * [Homes And Housing](https://homesandhousing.dk/)
+* [Juli Living](https://juliliving.dk/)
+* [Domus Nova](https://domusnova.dk/)
 
 ### Student Housing
 * [Umeus](https://en.umeus.dk/)
 * [BDTU](https://bdtu.dk )
 * [Pulse Living](https://www.pulseliving.dk/)
+* [BaseCamp](https://www.basecampstudent.com/student/)
+* [Nido Living](https://www.nidoliving.com/en/)
 
 ### Facebook Groups
 * [Accommodation in Copenhagen](https://www.facebook.com/groups/166820836821223/)
