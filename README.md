@@ -1,8 +1,9 @@
 # Living in Denmark 🇩🇰
 
-It's been I while. Collecting useful links, websites or resources while living in Denmark.
+It's been I while since I moved to Denmark. 
+I made a list of useful links, websites or resources.
 
-Whatever I could have found useful.
+It includes whatever I could have found useful.
 They are mostly in Danish, otherwise it's specified 😉
 
 ## Living
@@ -14,6 +15,8 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Hvor meget efter skat](http://hvormegetefterskat.dk/)
 * [Rejseplaner](https://www.rejseplanen.dk/webapp/?language=en_EN)
 * [Tinglysning](https://www.tinglysning.dk/tmv/forespoergul) _Public registry real estate, cooperative housing, vehicles_
+* [Tjek Bil](https://www.tjekbil.dk/) _Check car plate_
+* [Frivilligjob](https://frivilligjob.dk/about-volunteering.html?sprog=en-GB&sprog=en-GB) _Find a volunteer job_
 
 ## FAQ
 * [Notify change of address](https://lifeindenmark.borger.dk/ActionPage?selfserviceId=ab3a677f-b00b-47a5-83ae-df60841de47b)
@@ -25,6 +28,7 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Min Sundhed](https://www.sundhed.dk/borger/guides/apps-i-sundhedsvaesenet/apps-fra-sundhedsvaesenet-borger/) ([App Store](https://apps.apple.com/dk/app/minsundhed-dk/id1453504446?l=da) / [Play Store](https://play.google.com/store/apps/details?id=dk.sundhed.minsundhed))
 * [Sundhedskort](https://www.borger.dk/sundhed-og-sygdom/sygesikring-og-laegevalg/sundhedskort-app) ([App Store](https://apps.apple.com/dk/app/sundhedskortet/id1553871328) / [Play Store](https://play.google.com/store/apps/details?id=dk.digst.hc)) _Digital Yellow Card_
 * [DOT Tickets](https://dinoffentligetransport.dk/tourist/tickets/) ([App Store](https://apps.apple.com/gb/app/dot-tickets/id582247244) / [Play Store](https://play.google.com/store/apps/details?id=com.cellpointmobile.mticket.travelcard.dsb))
+* [Min Strøm](https://minstroem.app/) ([App Store](https://apps.apple.com/dk/app/min-str%C3%B8m/id1615436711)) _Electricity prices_
 
 ## What's up? 🗞️ 
 
@@ -41,6 +45,7 @@ They are mostly in Danish, otherwise it's specified 😉
 * [The Local](https://www.thelocal.dk/) 🇬🇧
 * [DanWatch](https://danwatch.dk/)
 * [Your Danish Life](https://www.yourdanishlife.dk/) 🇬🇧
+* [Last Week In Denmark](https://lastweekdk.substack.com/) 🇬🇧 _Weekly newsletter on the latest socio-economic and political developments in Denmark_
 
 ### Local News
 * [København Liv](https://kobenhavnliv.dk/)
