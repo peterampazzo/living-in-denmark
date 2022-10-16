@@ -80,9 +80,16 @@ Nej, there's no Amazon here eheh
 * [Føtex](https://hjem.foetex.dk/)
 * [REMA 1000](https://shop.rema1000.dk/)
 
-### Fruit & vegetables  
+### Fruit & vegetables
 * [Økologisk lagersalg hos Aarstiderne på BaneGaarden](https://www.facebook.com/events/1005953666699724/)
 * [Grønt Marked](https://www.groentmarked.dk/)
+* [Kysøko](https://www.instagram.com/kysoeko/)
+* [Birkemosegaard](https://birkemosegaard.dk/)
+* [Brinkholm](https://www.instagram.com/brinkholm.andelsgaarde/)
+
+### Local 
+* [Kala’s kimchi](https://www.instagram.com/kalaskimchi/)
+* [Birthesminde](https://butik.birthesminde.dk/)
 
 ## Moving 🚆
 
