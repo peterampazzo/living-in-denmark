@@ -12,23 +12,29 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Aftalebogen](https://aftalebogen.dk)  _Web portal for booking appointments with your GP_
 * [mit.dk](https://mit.dk/en) _Digital Post (new version of e-boks)_
 * [MitID](https://www.mitid.dk/en-gb/) _Digital Identity (former one - still in use - was called NemID)_
-* [Hvor meget efter skat](http://hvormegetefterskat.dk/)
+* [Hvor meget efter skat](http://hvormegetefterskat.dk/en) _How much taxes you should pay_
 * [Rejseplaner](https://www.rejseplanen.dk/webapp/?language=en_EN)
 * [Tinglysning](https://www.tinglysning.dk/tmv/forespoergul) _Public registry real estate, cooperative housing, vehicles_
 * [Tjek Bil](https://www.tjekbil.dk/) _Check car plate_
 * [Frivilligjob](https://frivilligjob.dk/about-volunteering.html?sprog=en-GB&sprog=en-GB) _Find a volunteer job_
 
+### Public Holidays
+
+There're several public holidays during the first half of the year. If you use Google Calendar, enable the "Holidays in Denmark" public calendar.
+Shops can be closed, but not all of them. The most reliable way is to check the company's website.
+
 ## FAQ
 * [Notify change of address](https://lifeindenmark.borger.dk/ActionPage?selfserviceId=ab3a677f-b00b-47a5-83ae-df60841de47b)
 * [Request new sundhedskort](https://www.borger.dk/Handlingsside?selfserviceId=145a2083-c205-407f-bf6c-512d41376077) (yellow card) _Bestil nyt sundhedskort_
 
-### Mobile Apps 📱
+## Mobile Apps 📱
 <!-- * [Min App](https://minapp.dk/) ([App Store]() / [Play Store]()) -->
 * [Min Læge](https://minlaegeapp.dk/) ([App Store](https://apps.apple.com/dk/app/min-l%C3%A6ge/id1445003295) / [Play Store](https://play.google.com/store/apps/details?id=com.trifork.minlaege)) _Emailing to GP, book appointment, video consultation_
 * [Min Sundhed](https://www.sundhed.dk/borger/guides/apps-i-sundhedsvaesenet/apps-fra-sundhedsvaesenet-borger/) ([App Store](https://apps.apple.com/dk/app/minsundhed-dk/id1453504446?l=da) / [Play Store](https://play.google.com/store/apps/details?id=dk.sundhed.minsundhed))
-* [Sundhedskort](https://www.borger.dk/sundhed-og-sygdom/sygesikring-og-laegevalg/sundhedskort-app) ([App Store](https://apps.apple.com/dk/app/sundhedskortet/id1553871328) / [Play Store](https://play.google.com/store/apps/details?id=dk.digst.hc)) _Digital Yellow Card_
+* [Sundhedskort](https://www.borger.dk/sundhed-og-sygdom/sygesikring-og-laegevalg/sundhedskort-app) ([App Store](https://apps.apple.com/dk/app/sundhedskortet/id1553871328) / [Play Store](https://play.google.com/store/apps/details?id=dk.digst.hc)) _Your Yellow Card, or Sundhedskort, on your mobile phone_
 * [DOT Tickets](https://dinoffentligetransport.dk/tourist/tickets/) ([App Store](https://apps.apple.com/gb/app/dot-tickets/id582247244) / [Play Store](https://play.google.com/store/apps/details?id=com.cellpointmobile.mticket.travelcard.dsb))
 * [Min Strøm](https://minstroem.app/) ([App Store](https://apps.apple.com/dk/app/min-str%C3%B8m/id1615436711)) _Electricity prices_
+* [BetalingsService](https://www.betalingsservice.dk/privat) ([App Store](https://itunes.apple.com/dk/app/betalingsservice/id1061617309?l=da&mt=8) / [Play Store](https://play.google.com/store/apps/details?id=com.nets.betalingsservice)) _Keep track of your automatic and recurring payments_
 
 ## What's up? 🗞️ 
 
@@ -90,6 +96,14 @@ Nej, there's no Amazon here eheh
 ### Local 
 * [Kala’s kimchi](https://www.instagram.com/kalaskimchi/)
 * [Birthesminde](https://butik.birthesminde.dk/)
+
+## Events
+* [Dinning Week](https://diningweek.dk/)
+* [Kulturnatten](https://www.kulturnatten.dk/da/Kulturnatten)
+* [Copenhagen Light Festival](https://copenhagenlightfestival.org/)
+* [Santa Lucia parade](https://www.visitcopenhagen.com/copenhagen/planning/santa-lucia-parade-kayaks-gdk1106677)
+* [Sankt Hans](https://www.copenhagendowntown.com/blog/celebrate-midsummer-with-our-sankt-hans-tradition)
+* [Sakura Festival](https://sakurafestival.dk/)
 
 ## Moving 🚆
 
