@@ -135,6 +135,10 @@ Nej, there's no Amazon here eheh
 * [Fjeld & Fritid](https://www.fjeldogfritid.dk/)
 * [SPORT 24](https://www.sport24.dk/)
 
+### Outlets
+* [Copenhagen Designer Outlet](https://www.en.copenhagendesigneroutlet.dk/)
+* [Ringsted Outlet](https://ringstedoutlet.dk/en/)
+
 ### Mix 🪣
 * [RugVista](https://rugvista.dk)
 
