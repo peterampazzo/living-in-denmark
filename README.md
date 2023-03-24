@@ -26,6 +26,8 @@ Shops can be closed, but not all of them. The most reliable way is to check the 
 ## FAQ
 * [Notify change of address](https://lifeindenmark.borger.dk/ActionPage?selfserviceId=ab3a677f-b00b-47a5-83ae-df60841de47b)
 * [Request new sundhedskort](https://www.borger.dk/Handlingsside?selfserviceId=145a2083-c205-407f-bf6c-512d41376077) (yellow card) _Bestil nyt sundhedskort_
+* [Request EU (blue) Health Card](https://lifeindenmark.borger.dk/ActionPage?selfserviceId=447f4ed5-146f-496c-a850-533fa684fa1a)
+* [Order a MitID Token](https://www.mitid.dk/en-gb/order-mitid-authenticator/)
 
 ## Mobile Apps 📱
 <!-- * [Min App](https://minapp.dk/) ([App Store]() / [Play Store]()) -->
@@ -82,7 +84,7 @@ Shops can be closed, but not all of them. The most reliable way is to check the 
 ### Online Shopping 🛒
 Nej, there's no Amazon here eheh
 * [Nemlig](https://www.nemlig.com/)
-* [Gorillas](https://gorillas.io/en)
+* ~~[Gorillas](https://gorillas.io/en)~~ 
 * [Føtex](https://hjem.foetex.dk/)
 * [REMA 1000](https://shop.rema1000.dk/)
 
@@ -148,6 +150,10 @@ Nej, there's no Amazon here eheh
 * [Aktive fritidssejlere i Københavns Havn](https://www.facebook.com/groups/281758785777993/)
 
 ## Housing
+* [The Danish Rent Act](https://www.lejeloven.dk/en) _Lejeloven_ ([full version](https://www.lejeloven.dk/) _in Danish_)
+* [Huslejenævnet](https://www.borger.dk/bolig-og-flytning/Lejebolig/beboerklagenaevn-og-huslejenaevn)
+* [Vedligeholdense](https://www.lejeloven.dk/lejer/vedligeholdelse) or _vedligeholdelseskonto_
+
 ### Search Engines
 * [Propstep](https://propstep.com/)
 * [BoligPortal](https://www.boligportal.dk)
