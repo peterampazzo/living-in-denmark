@@ -20,8 +20,7 @@ They are mostly in Danish, otherwise it's specified 😉
 
 ### Public Holidays
 
-There're several public holidays during the first half of the year. If you use Google Calendar, enable the "Holidays in Denmark" public calendar.
-Shops can be closed, but not all of them. The most reliable way is to check the company's website.
+In Denmark, there are several public holidays during the first half of the year. While your company may not observe all of them, I strongly advise enabling the "Holidays in Denmark" public calendar on Google Calendar. For larger shops and chains, I recommended to check the company's website for accurate information, as the opening hours on Google Maps may not always be up to date.
 
 ## FAQ
 * [Notify change of address](https://lifeindenmark.borger.dk/ActionPage?selfserviceId=ab3a677f-b00b-47a5-83ae-df60841de47b)
@@ -47,7 +46,7 @@ Shops can be closed, but not all of them. The most reliable way is to check the 
 ### Newspaper
 * [Berlingske](https://www.berlingske.dk/)
 * [Politiken](https://politiken.dk/)
-* [Jyllands-Posten](https://jyllands-posten.dk/)
+* [Børsen](https://borsen.dk/)
 * [Ekstra Bladet](https://ekstrabladet.dk/)
 * [B.T.](https://www.bt.dk/)
 * [The Local](https://www.thelocal.dk/) 🇬🇧
@@ -60,6 +59,7 @@ Shops can be closed, but not all of them. The most reliable way is to check the 
 * [CPH Post](https://cphpost.dk/) 🇬🇧
 * [Frederiksberg Liv](https://frederiksbergliv.dk/)
 * [Amager Liv](https://amagerliv.dk/)
+* [Jyllands-Posten](https://jyllands-posten.dk/)
 * [Secret København](https://secretkobenhavn.com/) 🇬🇧
 * [MigogKbh](https://migogkbh.dk/)
 
@@ -82,9 +82,12 @@ Shops can be closed, but not all of them. The most reliable way is to check the 
 
 ## Grocery
 ### Online Shopping 🛒
-Nej, there's no Amazon here eheh
+Nej, there's no Amazon here 🫣 You can still place orders on Amazon.de and have it delivered at your address in Denmark.
+
+If you come across a local e-commerce site and you're unsure about its trustworthiness, I recommend looking it up on Trustpilot to see if there are any reviews and what its rating is. Additionally, make sure to check if MobilePay is listed among the supported payment methods, as the company should be registered in Denmark.
+
 * [Nemlig](https://www.nemlig.com/)
-* ~~[Gorillas](https://gorillas.io/en)~~ 
+* ~~[Gorillas](https://gorillas.io/en)~~ [_Udbringningstjenesten Gorillas lukker i Danmark_](https://www.berlingske.dk/business/udbringningstjenesten-gorillas-lukker-i-danmark)
 * [Føtex](https://hjem.foetex.dk/)
 * [REMA 1000](https://shop.rema1000.dk/)
 
@@ -106,6 +109,13 @@ Nej, there's no Amazon here eheh
 * [Santa Lucia parade](https://www.visitcopenhagen.com/copenhagen/planning/santa-lucia-parade-kayaks-gdk1106677)
 * [Sankt Hans](https://www.copenhagendowntown.com/blog/celebrate-midsummer-with-our-sankt-hans-tradition)
 * [Sakura Festival](https://sakurafestival.dk/)
+* [Royal Run](https://www.royalrun.dk/)
+* [CPH Open](https://www.cphopen.com/)
+* [Roskilde Festival](https://www.roskilde-festival.dk/en/)
+* [Distortion](https://www.cphdistortion.dk/)
+* [CopenHell](https://www.copenhell.dk/)
+* [SmukFest](https://www.smukfest.dk/)
+* [Jazz Festival](https://jazz.dk/)
 
 ## Moving 🚆
 
@@ -136,6 +146,8 @@ Nej, there's no Amazon here eheh
 * [Spejder Sport](https://www.spejdersport.dk/)
 * [Fjeld & Fritid](https://www.fjeldogfritid.dk/)
 * [SPORT 24](https://www.sport24.dk/)
+* [SPORT MASTER](https://sportmaster.dk/)
+* [InterSport](https://www.intersport.dk/)
 
 ### Outlets
 * [Copenhagen Designer Outlet](https://www.en.copenhagendesigneroutlet.dk/)
