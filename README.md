@@ -2,7 +2,7 @@
 
 Whether you're new to Denmark or not, finding the right answers can sometimes be challenging. My main struggle has been searching for a place to live 🏠, and over time, this list has grown primarily for that purpose. I believe it's also the main reason why I continue to share it with others. Wishing you good luck! 🍀
 
-In addition to housing, I'm compiling a variety of resources here, including events, useful mobile apps, language tips, and more! I hope you find them all useful!
+In addition to housing, I'm compiling a variety of resources here, including events, useful mobile apps, language tips, and more! While they are mostly related to life in Copenhagen, they can also be relevant to other parts of Denmark. I hope you find them all useful!
 
 They are mostly in Danish, otherwise it's specified 😉
 
