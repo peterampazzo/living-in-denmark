@@ -160,6 +160,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Expats in Copenhagen](https://www.facebook.com/groups/1408252362776505)
 * [Free Your Stuff Copenhagen](https://www.facebook.com/groups/freethestuffcph)
 * [Aktive fritidssejlere i Københavns Havn](https://www.facebook.com/groups/281758785777993/)
+* [Second Hand Furniture Sale - Copenhagen](https://www.facebook.com/groups/278509918993255/)
 
 ## Housing
 * [The Danish Rent Act](https://www.lejeloven.dk/en) _Lejeloven_ ([full version](https://www.lejeloven.dk/) _in Danish_)
@@ -200,6 +201,8 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [LejeBolig i København, Housing for rent in CPH, Lejlighed, Værelse, Hus](https://www.facebook.com/groups/RentCopen)
 * [Lejligheder til salg og leje i København](https://www.facebook.com/groups/boligjunglen)
 * [bytte lejlighed Frederiksberg](https://www.facebook.com/groups/1448296145241327)
+* [Danimarca stanze/appartamenti in affitto](https://www.facebook.com/groups/affittostanze/)
+* [Housing In Copenhagen | Lejebolig i København](https://www.facebook.com/groups/RentCopen/)
 
 ## Hvad siger du?! 🥔
 
