@@ -109,13 +109,23 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Santa Lucia parade](https://www.visitcopenhagen.com/copenhagen/planning/santa-lucia-parade-kayaks-gdk1106677)
 * [Sankt Hans](https://www.copenhagendowntown.com/blog/celebrate-midsummer-with-our-sankt-hans-tradition)
 * [Sakura Festival](https://sakurafestival.dk/)
-* [Royal Run](https://www.royalrun.dk/)
 * [CPH Open](https://www.cphopen.com/)
 * [Roskilde Festival](https://www.roskilde-festival.dk/en/)
 * [Distortion](https://www.cphdistortion.dk/)
 * [CopenHell](https://www.copenhell.dk/)
 * [SmukFest](https://www.smukfest.dk/)
 * [Jazz Festival](https://jazz.dk/)
+* [ArtWeek](https://artweek.nu/en/)
+* [Copenhagen Pride](https://www.copenhagenpride.dk/en/)
+* [Strørm Festival](https://strm.dk/)
+
+### Sport Events
+* [Royal Run](https://www.royalrun.dk/)
+* [DHL Stafetten](https://sparta.dk/dhl-stafetten/)
+* [Copenhagen Marathon](https://copenhagenmarathon.dk/)
+* [Eremitageløbet](https://elob.dk/)
+* [Christiansborg Rundt](https://copenhagenswim.com/en/)
+* [Bornholm rundt](https://cykelbornholmrundt.dk/)
 
 ## Moving 🚆
 
@@ -152,6 +162,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 ### Outlets
 * [Copenhagen Designer Outlet](https://www.en.copenhagendesigneroutlet.dk/)
 * [Ringsted Outlet](https://ringstedoutlet.dk/en/)
+* [Royal Copenhagen Outlets][https://www.royalcopenhagen.com/da-dk/vores-butikker/outlets] (Frederiksberg and Vejle)
 
 ### Mix 🪣
 * [RugVista](https://rugvista.dk)
@@ -184,6 +195,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Homes And Housing](https://homesandhousing.dk/)
 * [Juli Living](https://juliliving.dk/)
 * [Domus Nova](https://domusnova.dk/)
+* [Kereby](https://kereby.dk/en/)
 
 ### Student Housing
 * [Umeus](https://en.umeus.dk/)
