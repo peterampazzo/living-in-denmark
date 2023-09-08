@@ -196,6 +196,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Juli Living](https://juliliving.dk/)
 * [Domus Nova](https://domusnova.dk/)
 * [Kereby](https://kereby.dk/en/)
+* [Cobblestone](https://cobblestone.dk/)
 
 ### Student Housing
 * [Umeus](https://en.umeus.dk/)
