@@ -143,6 +143,8 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Share-Now](https://www.share-now.com/dk/en/)
 * [GoMore](https://gomore.dk/)
 * [Lej Et Lig](https://www.lejetlig.dk/)
+* [Hyre](https://www.hyre.dk/)
+* [Kinto](https://www.kinto-mobility.eu/dk/da)
 
 ### Taxi 🚕
 
