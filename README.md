@@ -164,7 +164,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 ### Outlets
 * [Copenhagen Designer Outlet](https://www.en.copenhagendesigneroutlet.dk/)
 * [Ringsted Outlet](https://ringstedoutlet.dk/en/)
-* [Royal Copenhagen Outlets][https://www.royalcopenhagen.com/da-dk/vores-butikker/outlets] (Frederiksberg and Vejle)
+* [Royal Copenhagen Outlets](https://www.royalcopenhagen.com/da-dk/vores-butikker/outlets) (Frederiksberg and Vejle)
 
 ### Mix 🪣
 * [RugVista](https://rugvista.dk)
