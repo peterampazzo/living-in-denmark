@@ -140,7 +140,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 ### Car rental / Carsharing
 
 * [Green Mobility](https://www.greenmobility.com/dk/en/)
-* [Share-Now](https://www.share-now.com/dk/en/)
+* ~~[Share-Now](https://www.share-now.com/dk/en/)~~ [_Delebilsordningen Share Now lukker i København_](https://www.dr.dk/nyheder/seneste/delebilsordningen-share-now-lukker-i-koebenhavn)
 * [GoMore](https://gomore.dk/)
 * [Lej Et Lig](https://www.lejetlig.dk/)
 * [Hyre](https://www.hyre.dk/)
@@ -199,6 +199,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Domus Nova](https://domusnova.dk/)
 * [Kereby](https://kereby.dk/en/)
 * [Cobblestone](https://cobblestone.dk/)
+* [LIV residential](https://livresidential.dk/)
 
 ### Student Housing
 * [Umeus](https://en.umeus.dk/)
