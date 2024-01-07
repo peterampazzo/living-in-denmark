@@ -11,7 +11,7 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Email Konsultation](https://emailkonsultation.dk) _Web portal for emailing your GP_
 * [Aftalebogen](https://aftalebogen.dk)  _Web portal for booking appointments with your GP_
 * [mit.dk](https://mit.dk/en) _Digital Post (new version of e-boks)_
-* [MitID](https://www.mitid.dk/en-gb/) _Digital Identity (former one - still in use - was called NemID)_
+* [MitID](https://www.mitid.dk/en-gb/) _Digital Identity (former one was called NemID)_
 * [Hvor meget efter skat](http://hvormegetefterskat.dk/en) _How much taxes you should pay_
 * [Rejseplaner](https://www.rejseplanen.dk/webapp/?language=en_EN)
 * [Tinglysning](https://www.tinglysning.dk/tmv/forespoergul) _Public registry real estate, cooperative housing, vehicles_
@@ -26,7 +26,7 @@ In Denmark, there are several public holidays during the first half of the year.
 * [Notify change of address](https://lifeindenmark.borger.dk/ActionPage?selfserviceId=ab3a677f-b00b-47a5-83ae-df60841de47b)
 * [Request new sundhedskort](https://www.borger.dk/Handlingsside?selfserviceId=145a2083-c205-407f-bf6c-512d41376077) (yellow card) _Bestil nyt sundhedskort_
 * [Request EU (blue) Health Card](https://lifeindenmark.borger.dk/ActionPage?selfserviceId=447f4ed5-146f-496c-a850-533fa684fa1a)
-* [Order a MitID Token](https://www.mitid.dk/en-gb/order-mitid-authenticator/)
+* [Order a MitID Token](https://www.mitid.dk/en-gb/order-mitid-authenticator/) _Backup MitID authenticator (for free)_
 
 ## Mobile Apps 📱
 <!-- * [Min App](https://minapp.dk/) ([App Store]() / [Play Store]()) -->
@@ -140,7 +140,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 ### Car rental / Carsharing
 
 * [Green Mobility](https://www.greenmobility.com/dk/en/)
-* ~~[Share-Now](https://www.share-now.com/dk/en/)~~ [_Delebilsordningen Share Now lukker i København_](https://www.dr.dk/nyheder/seneste/delebilsordningen-share-now-lukker-i-koebenhavn)
+* ~~[Share-Now](https://www.share-now.com/dk/en/)~~ [_Share Now lukker i København_](https://www.berlingske.dk/virksomheder/share-now-lukker-i-koebenhavn)
 * [GoMore](https://gomore.dk/)
 * [Lej Et Lig](https://www.lejetlig.dk/)
 * [Hyre](https://www.hyre.dk/)
