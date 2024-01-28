@@ -119,7 +119,23 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Copenhagen Pride](https://www.copenhagenpride.dk/en/)
 * [Strørm Festival](https://strm.dk/)
 
-### Sport Events
+## Sports
+
+## Clubs
+
+* [Copenhagen Cycling Club](https://www.facebook.com/copenhagencyclingclub) _Cycling_
+* [Nørrebro Cykleklub](https://norrebrock.dk/) _Cycling_
+* [Pas Normal Studios / International Cycling Club](https://www.strava.com/clubs/1048788) _Cycling_
+* [Adidas Running](https://www.instagram.com/runnersofcopenhagen/) _Running_
+* [Mad og Kaffe Running](https://mkrunning.dk/) _Running_
+* [Mikkeller](https://www.mikkeller.com/msc/mikkeller-running-club) _Running_
+* [NBRO Running](https://www.instagram.com/nbrorunning/) _Running_
+* [Sparta](https://sparta.dk/lobetraening/) _Running_
+* [Danske Studenters Roklub](https://danskestudentersroklub.dk/) _Rowing_
+* [Københavns Roklub](https://www.koebenhavnsroklub.dk/) _Rowing_
+* [Roforeningen KVIK](https://www.roforeningen.dk/) _Rowing_
+
+## Events
 * [Royal Run](https://www.royalrun.dk/)
 * [DHL Stafetten](https://sparta.dk/dhl-stafetten/)
 * [Copenhagen Marathon](https://copenhagenmarathon.dk/)
@@ -174,6 +190,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Free Your Stuff Copenhagen](https://www.facebook.com/groups/freethestuffcph)
 * [Aktive fritidssejlere i Københavns Havn](https://www.facebook.com/groups/281758785777993/)
 * [Second Hand Furniture Sale - Copenhagen](https://www.facebook.com/groups/278509918993255/)
+* [Hiking Copenhagen](https://www.facebook.com/groups/280299495963221)
 
 ## Housing
 * [The Danish Rent Act](https://www.lejeloven.dk/en) _Lejeloven_ ([full version](https://www.lejeloven.dk/) _in Danish_)
@@ -202,6 +219,9 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [LIV residential](https://livresidential.dk/)
 * [Danish Homes](https://www.danishhomes.com/)
 * [Balder](https://www.balder.dk/)
+
+It's not over yet. It became a new trend for every building or construction site to have its own website. Typically, these websites list the currently available apartments or house openings.
+
 * [Gislegård](https://gislegaard.dk/)
 * [Bo på Amager Strand](https://bopaaamagerstrand.dk/)
 * [Nobelholmen](https://nobelholmen.dk/)
