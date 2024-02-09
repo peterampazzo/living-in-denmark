@@ -10,6 +10,7 @@ They are mostly in Danish, otherwise it's specified 😉
 * [borger.dk](https://www.borger.dk/) _Change of address, change of GP, Digital Post_
 * [Email Konsultation](https://emailkonsultation.dk) _Web portal for emailing your GP_
 * [Aftalebogen](https://aftalebogen.dk)  _Web portal for booking appointments with your GP_
+* [e-Boks](https://private.e-boks.com/danmark/en) _Digital Post_
 * [mit.dk](https://mit.dk/en) _Digital Post (new version of e-boks)_
 * [MitID](https://www.mitid.dk/en-gb/) _Digital Identity (former one was called NemID)_
 * [Hvor meget efter skat](http://hvormegetefterskat.dk/en) _How much taxes you should pay_
@@ -36,6 +37,7 @@ In Denmark, there are several public holidays during the first half of the year.
 * [DOT Tickets](https://dinoffentligetransport.dk/tourist/tickets/) ([App Store](https://apps.apple.com/gb/app/dot-tickets/id582247244) / [Play Store](https://play.google.com/store/apps/details?id=com.cellpointmobile.mticket.travelcard.dsb))
 * [Min Strøm](https://minstroem.app/) ([App Store](https://apps.apple.com/dk/app/min-str%C3%B8m/id1615436711)) _Electricity prices_
 * [BetalingsService](https://www.betalingsservice.dk/privat) ([App Store](https://itunes.apple.com/dk/app/betalingsservice/id1061617309?l=da&mt=8) / [Play Store](https://play.google.com/store/apps/details?id=com.nets.betalingsservice)) _Keep track of your automatic and recurring payments_
+* [Skatteguiden](https://www.skatteguiden.dk/) ([App Store](https://apps.apple.com/dk/app/skatteguiden/id1521428782) / [Play Store](https://play.google.com/store/apps/details?id=dk.skatteguiden.mobileapp)) _Easy way to update skat.dk_
 
 ## What's up? 🗞️ 
 
@@ -196,6 +198,8 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [The Danish Rent Act](https://www.lejeloven.dk/en) _Lejeloven_ ([full version](https://www.lejeloven.dk/) _in Danish_)
 * [Huslejenævnet](https://www.borger.dk/bolig-og-flytning/Lejebolig/beboerklagenaevn-og-huslejenaevn)
 * [Vedligeholdense](https://www.lejeloven.dk/lejer/vedligeholdelse) or _vedligeholdelseskonto_
+* [LLO](https://llo.dk/om-llo/in-english) _Lejernes Landsorganisation_ (_The Tenants' National Organization_)
+* [Digura](https://digura.dk/en/)
 
 ### Search Engines
 * [Propstep](https://propstep.com/)
