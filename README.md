@@ -18,6 +18,7 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Tinglysning](https://www.tinglysning.dk/tmv/forespoergul) _Public registry real estate, cooperative housing, vehicles_
 * [Tjek Bil](https://www.tjekbil.dk/) _Check car plate_
 * [Frivilligjob](https://frivilligjob.dk/about-volunteering.html?sprog=en-GB&sprog=en-GB) _Find a volunteer job_
+* [Daily pollen](https://www.astma-allergi.dk/dagens-pollental/)
 
 ### Public Holidays
 
