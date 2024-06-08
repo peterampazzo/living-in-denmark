@@ -19,6 +19,7 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Tjek Bil](https://www.tjekbil.dk/) _Check car plate_
 * [Frivilligjob](https://frivilligjob.dk/about-volunteering.html?sprog=en-GB&sprog=en-GB) _Find a volunteer job_
 * [Daily pollen](https://www.astma-allergi.dk/dagens-pollental/)
+* [Buying a House in Denmark as Expat](https://marioscian.medium.com/buying-an-apartment-in-denmark-as-a-foreigner-all-you-need-to-know-b66a9876a13)
 
 ### Public Holidays
 
