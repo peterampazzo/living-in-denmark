@@ -8,8 +8,8 @@ They are mostly in Danish, otherwise it's specified 😉
 
 ## Living
 * [borger.dk](https://www.borger.dk/) _Change of address, change of GP, Digital Post_
-* [Email Konsultation](https://emailkonsultation.dk) _Web portal for emailing your GP_
-* [Aftalebogen](https://aftalebogen.dk)  _Web portal for booking appointments with your GP_
+* ~~[Email Konsultation](https://emailkonsultation.dk)~~ _Use Min Læge app instead_
+* ~~[Aftalebogen](https://aftalebogen.dk)~~  _Use Min Læge app instead_
 * [e-Boks](https://private.e-boks.com/danmark/en) _Digital Post_
 * [mit.dk](https://mit.dk/en) _Digital Post (new version of e-boks)_
 * [MitID](https://www.mitid.dk/en-gb/) _Digital Identity (former one was called NemID)_
@@ -20,6 +20,8 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Frivilligjob](https://frivilligjob.dk/about-volunteering.html?sprog=en-GB&sprog=en-GB) _Find a volunteer job_
 * [Daily pollen](https://www.astma-allergi.dk/dagens-pollental/)
 * [Buying a House in Denmark as Expat](https://marioscian.medium.com/buying-an-apartment-in-denmark-as-a-foreigner-all-you-need-to-know-b66a9876a13)
+* [Tjek dit net](https://tjekditnet.dk) _Compare internet providers_
+* [Elpris](https://elpris.dk) _Compare electricity prices_
 
 ### Public Holidays
 
@@ -86,7 +88,7 @@ In Denmark, there are several public holidays during the first half of the year.
 
 ## Grocery
 ### Online Shopping 🛒
-Nej, there's no Amazon here 🫣 You can still place orders on Amazon.de and have it delivered at your address in Denmark.
+Nej, there's no Amazon here 🫣 You can still place orders on Amazon.de and have it delivered at your address in Denmark. [PriceRunner](https://www.pricerunner.dk/) is a widely used price and product comparison site in Scandinavia.
 
 If you come across a local e-commerce site and you're unsure about its trustworthiness, I recommend looking it up on Trustpilot to see if there are any reviews and what its rating is. Additionally, make sure to check if MobilePay is listed among the supported payment methods, as the company should be registered in Denmark.
 
@@ -135,6 +137,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Mikkeller](https://www.mikkeller.com/msc/mikkeller-running-club) _Running_
 * [NBRO Running](https://www.instagram.com/nbrorunning/) _Running_
 * [Sparta](https://sparta.dk/lobetraening/) _Running_
+* [ParkRun](https://www.parkrun.dk/) _Running_
 * [Danske Studenters Roklub](https://danskestudentersroklub.dk/) _Rowing_
 * [Københavns Roklub](https://www.koebenhavnsroklub.dk/) _Rowing_
 * [Roforeningen KVIK](https://www.roforeningen.dk/) _Rowing_
