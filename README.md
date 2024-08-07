@@ -141,6 +141,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Danske Studenters Roklub](https://danskestudentersroklub.dk/) _Rowing_
 * [Københavns Roklub](https://www.koebenhavnsroklub.dk/) _Rowing_
 * [Roforeningen KVIK](https://www.roforeningen.dk/) _Rowing_
+* [Spring Jiu-jitsu](https://spring-jiujitsu.dk/) _BJJ_
 
 ## Events
 * [Royal Run](https://www.royalrun.dk/)
@@ -213,7 +214,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [BoligPortal](https://www.boligportal.dk)
 * [Find Roommate](https://www.findroommate.dk/)
 * [Home.DK](https://home.dk/)
-* [Housing Denmark](https://housingdenmark.com/en/premium)
+* [Bolighub](https://www.bolighub.dk/en)
 
 ### Real Estate Agencies
 * [Findbolig.nu](https://findbolig.nu/)
@@ -230,6 +231,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [LIV residential](https://livresidential.dk/)
 * [Danish Homes](https://www.danishhomes.com/)
 * [Balder](https://www.balder.dk/)
+* [Housing Denmark](https://housingdenmark.com/en/premium)
 
 It's not over yet. It became a new trend for every building or construction site to have its own website. Typically, these websites list the currently available apartments or house openings.
 
