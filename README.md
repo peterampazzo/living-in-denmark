@@ -157,8 +157,10 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 
 ### Bike / Scooter
 
+* [How to cycle in Denmark by Danish Police](https://politi.dk/-/media/mediefiler/kbh/billeder-diverse/how-to-cycle-in-denmark-(1).pdf)
 * [Cycling rules in Denmark by Donkey Republic](https://www.donkey.bike/denmark-cycling-rules/)
 * [Cycling guidelines in Copenhagen by Københavns Kommune](https://international.kk.dk/live/transport-and-parking/cycling-guidelines-in-copenhagen)
+* [Cycle training by RedCross](https://hovedstaden.rodekors.dk/detgorvi/faellesskaber-for-voksne/cykeltraening/)
 * [Swapfiets](https://swapfiets.dk/en-DK)
 * [Donkey Republic](https://www.donkey.bike/)
 * [VOI Scooters](https://www.voiscooters.com/)
@@ -246,6 +248,7 @@ It's not over yet. It became a new trend for every building or construction site
 * [C.F. Møllers Have](https://cfmoellershave.dk/)
 * [Grønttorvet](https://groenttorvet.dk/)
 * [Carlsberg Byen](https://www.carlsbergbyen.dk/)
+* [Noli](https://noliresidences.dk/en/)
 
 ### Student Housing
 * [Umeus](https://en.umeus.dk/)
