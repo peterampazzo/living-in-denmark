@@ -217,6 +217,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Find Roommate](https://www.findroommate.dk/)
 * [Home.DK](https://home.dk/)
 * [Bolighub](https://www.bolighub.dk/en)
+* [BoligSurf](https://boligsurf.dk)
 
 ### Real Estate Agencies
 * [Findbolig.nu](https://findbolig.nu/)
@@ -234,6 +235,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Danish Homes](https://www.danishhomes.com/)
 * [Balder](https://www.balder.dk/)
 * [Housing Denmark](https://housingdenmark.com/en/premium)
+* [C.W. Obel](https://cwobel.dk/?lang=en)
 
 It's not over yet. It became a new trend for every building or construction site to have its own website. Typically, these websites list the currently available apartments or house openings.
 
