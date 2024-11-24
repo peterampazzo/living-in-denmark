@@ -124,6 +124,8 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [ArtWeek](https://artweek.nu/en/)
 * [Copenhagen Pride](https://www.copenhagenpride.dk/en/)
 * [Strørm Festival](https://strm.dk/)
+* [J-Day](https://www.scandinaviastandard.com/christmas-cheers-what-is-j-dag-in-denmark/)
+* [Nordic Adventure Film Festival](https://adventurefilmfest.dk/)
 
 ## Sports
 
