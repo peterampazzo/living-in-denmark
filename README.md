@@ -105,7 +105,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Brinkholm](https://www.instagram.com/brinkholm.andelsgaarde/)
 
 ### Local 
-* [Kala’s kimchi](https://www.instagram.com/kalaskimchi/)
+* [Kala's kimchi](https://www.instagram.com/kalaskimchi/)
 * [Birthesminde](https://butik.birthesminde.dk/)
 
 ## Events
@@ -272,6 +272,25 @@ It's not over yet. It became a new trend for every building or construction site
 * [bytte lejlighed Frederiksberg](https://www.facebook.com/groups/1448296145241327)
 * [Danimarca stanze/appartamenti in affitto](https://www.facebook.com/groups/affittostanze/)
 * [Housing In Copenhagen | Lejebolig i København](https://www.facebook.com/groups/RentCopen/)
+
+## Eating Like a Local
+
+* Smørrebrød
+* Flæskesteg
+* Fastelavnsboller (Carnival)
+* Kanelstang
+* Wienerbrød
+
+### Winter
+
+* Risalamande
+* Æbleskiver
+* Glogg
+* Pickled Herring
+
+### Summer
+
+* Koldskål
 
 ## Hvad siger du?! 🥔
 
