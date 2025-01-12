@@ -207,6 +207,9 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Hiking Copenhagen](https://www.facebook.com/groups/280299495963221)
 
 ## Housing
+
+**NEW! [Lease contracts can soon be done in English](https://www.dr.dk/nyheder/seneste/nu-kommer-der-officielle-lejekontrakter-paa-engelsk)**
+
 * [The Danish Rent Act](https://www.lejeloven.dk/en) _Lejeloven_ ([full version](https://www.lejeloven.dk/) _in Danish_)
 * [Huslejenævnet](https://www.borger.dk/bolig-og-flytning/Lejebolig/beboerklagenaevn-og-huslejenaevn)
 * [Vedligeholdense](https://www.lejeloven.dk/lejer/vedligeholdelse) or _vedligeholdelseskonto_
