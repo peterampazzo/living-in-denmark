@@ -23,6 +23,10 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Tjek dit net](https://tjekditnet.dk) _Compare internet providers_
 * [Elpris](https://elpris.dk) _Compare electricity prices_
 
+> [!IMPORTANT]
+> The Danish Emergency Management Agency (_Beredskabsstyrelsen_), given the current global instability, has outlined a list of recommendations to help individuals prepare for potential crises.
+> [brs.dk/en/prepared](https://www.brs.dk/en/prepared/)
+
 ### Public Holidays
 
 In Denmark, there are several public holidays during the first half of the year. While your company may not observe all of them, I strongly advise enabling the "Holidays in Denmark" public calendar on Google Calendar. For larger shops and chains, I recommended to check the company's website for accurate information, as the opening hours on Google Maps may not always be up to date.
@@ -126,6 +130,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Strørm Festival](https://strm.dk/)
 * [J-Day](https://www.scandinaviastandard.com/christmas-cheers-what-is-j-dag-in-denmark/)
 * [Nordic Adventure Film Festival](https://adventurefilmfest.dk/)
+* [3daysofdesign](https://www.3daysofdesign.dk/)
 
 ## Sports
 
