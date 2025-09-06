@@ -75,12 +75,6 @@ In Denmark, there are several public holidays during the first half of the year.
 * [Secret København](https://secretkobenhavn.com/) 🇬🇧
 * [MigogKbh](https://migogkbh.dk/)
 
-## Deals & Offers
-* [Niche](https://www.meyou.dk/niche/) 
-* [Tipster](https://www.tipster.io/drops/)
-* [NightPay](https://www.nightpay.com/)
-* [Minetilbud](https://www.minetilbud.dk/) _Weekly flyers and offers from Danish supermarkets and stores_
-
 ### X 
 * [DR Nyheder Breaking](https://twitter.com/DRBreaking)
 * [Nordic News](https://twitter.com/Nordic_News)
@@ -105,6 +99,12 @@ In Denmark, there are several public holidays during the first half of the year.
 * [DMI](https://www.dmi.dk/)
 * [TV2 Vejr](https://vejr.tv2.dk/)
 * [YR](https://www.yr.no/en)
+
+## Deals & Offers
+* [Niche](https://www.meyou.dk/niche/) 
+* [Tipster](https://www.tipster.io/drops/)
+* [NightPay](https://www.nightpay.com/)
+* [Minetilbud](https://www.minetilbud.dk/) _Weekly flyers and offers from Danish supermarkets and stores_
 
 ## Grocery
 ### Online Shopping 🛒
