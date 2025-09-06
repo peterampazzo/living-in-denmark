@@ -6,6 +6,10 @@ In addition to housing, I'm compiling a variety of resources here, including eve
 
 They are mostly in Danish, otherwise it's specified 😉
 
+> [!IMPORTANT]
+> The Danish Emergency Management Agency (_Beredskabsstyrelsen_), given the current global instability, has outlined a list of recommendations to help individuals prepare for potential crises.
+> [brs.dk/en/prepared](https://www.brs.dk/en/prepared/)
+
 ## Living
 * [borger.dk](https://www.borger.dk/) _Change of address, change of GP, Digital Post_
 * ~~[Email Konsultation](https://emailkonsultation.dk)~~ _Use Min Læge app instead_
@@ -23,9 +27,6 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Tjek dit net](https://tjekditnet.dk) _Compare internet providers_
 * [Elpris](https://elpris.dk) _Compare electricity prices_
 
-> [!IMPORTANT]
-> The Danish Emergency Management Agency (_Beredskabsstyrelsen_), given the current global instability, has outlined a list of recommendations to help individuals prepare for potential crises.
-> [brs.dk/en/prepared](https://www.brs.dk/en/prepared/)
 
 ### Public Holidays
 
@@ -42,6 +43,7 @@ In Denmark, there are several public holidays during the first half of the year.
 * [Min Læge](https://minlaegeapp.dk/) ([App Store](https://apps.apple.com/dk/app/min-l%C3%A6ge/id1445003295) / [Play Store](https://play.google.com/store/apps/details?id=com.trifork.minlaege)) _Emailing to GP, book appointment, video consultation_
 * [Min Sundhed](https://www.sundhed.dk/borger/guides/apps-i-sundhedsvaesenet/apps-fra-sundhedsvaesenet-borger/) ([App Store](https://apps.apple.com/dk/app/minsundhed-dk/id1453504446?l=da) / [Play Store](https://play.google.com/store/apps/details?id=dk.sundhed.minsundhed))
 * [Sundhedskort](https://www.borger.dk/sundhed-og-sygdom/sygesikring-og-laegevalg/sundhedskort-app) ([App Store](https://apps.apple.com/dk/app/sundhedskortet/id1553871328) / [Play Store](https://play.google.com/store/apps/details?id=dk.digst.hc)) _Your Yellow Card, or Sundhedskort, on your mobile phone_
+* [Rejsekort](https://www.rejsekort.dk/?sc_lang=en) ([App Store](https://apps.apple.com/dk/app/rejsekort/id6469603787) / [Play Store](https://play.google.com/store/apps/details?id=dk.rejsekort.digitalrejsekort)) _Manage your Rejsekort, check balance, and travel history_
 * [DOT Tickets](https://dinoffentligetransport.dk/tourist/tickets/) ([App Store](https://apps.apple.com/gb/app/dot-tickets/id582247244) / [Play Store](https://play.google.com/store/apps/details?id=com.cellpointmobile.mticket.travelcard.dsb))
 * [Min Strøm](https://minstroem.app/) ([App Store](https://apps.apple.com/dk/app/min-str%C3%B8m/id1615436711)) _Electricity prices_
 * [BetalingsService](https://www.betalingsservice.dk/privat) ([App Store](https://itunes.apple.com/dk/app/betalingsservice/id1061617309?l=da&mt=8) / [Play Store](https://play.google.com/store/apps/details?id=com.nets.betalingsservice)) _Keep track of your automatic and recurring payments_
@@ -73,7 +75,13 @@ In Denmark, there are several public holidays during the first half of the year.
 * [Secret København](https://secretkobenhavn.com/) 🇬🇧
 * [MigogKbh](https://migogkbh.dk/)
 
-### Twitter
+## Deals & Offers
+* [Niche](https://www.meyou.dk/niche/) 
+* [Tipster](https://www.tipster.io/drops/)
+* [NightPay](https://www.nightpay.com/)
+* [Minetilbud](https://www.minetilbud.dk/) _Weekly flyers and offers from Danish supermarkets and stores_
+
+### X 
 * [DR Nyheder Breaking](https://twitter.com/DRBreaking)
 * [Nordic News](https://twitter.com/Nordic_News)
 * [Statsministeriet](https://twitter.com/Statsmin) _The Prime Minister's Office (Statsministeriet)_
@@ -84,6 +92,14 @@ In Denmark, there are several public holidays during the first half of the year.
 * [TrafikkenHovedstaden](https://twitter.com/trafikhovedstad)
 * [Presse-fotos.dk](https://twitter.com/pressefotosdk)
 * [DK Pol](https://twitter.com/i/lists/704961335885303810) _Danish Politics list_
+
+### Reddit
+* [r/NewToDenmark](https://www.reddit.com/r/NewToDenmark/) _For newcomers: questions, advice, and support_
+* [r/Denmark](https://www.reddit.com/r/Denmark/) _News, culture, and general discussion about Denmark_
+* [r/copenhagen](https://www.reddit.com/r/copenhagen/) _Local news, tips, and events in Copenhagen_
+* [r/dkloenseddel](https://www.reddit.com/r/dkloenseddel/) _Anonymous salary sharing and workplace insights_
+* [r/dkkarriere](https://www.reddit.com/r/dkkarriere/) _Jobs, careers, and work life in Denmark_
+* [r/dkfinance](https://www.reddit.com/r/dkfinance/)
 
 ## Denmark + Rain = Danish Weather 🌧️
 * [DMI](https://www.dmi.dk/)
@@ -131,6 +147,7 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [J-Day](https://www.scandinaviastandard.com/christmas-cheers-what-is-j-dag-in-denmark/)
 * [Nordic Adventure Film Festival](https://adventurefilmfest.dk/)
 * [3daysofdesign](https://www.3daysofdesign.dk/)
+* [Karrusel](https://www.karrusel.dk/)
 
 ## Sports
 
@@ -154,9 +171,12 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Royal Run](https://www.royalrun.dk/)
 * [DHL Stafetten](https://sparta.dk/dhl-stafetten/)
 * [Copenhagen Marathon](https://copenhagenmarathon.dk/)
+* [CPH Half](https://cphhalf.dk/)
 * [Eremitageløbet](https://elob.dk/)
 * [Christiansborg Rundt](https://copenhagenswim.com/en/)
 * [Bornholm rundt](https://cykelbornholmrundt.dk/)
+* [CPH Ironman](https://www.ironman.com/races/im-copenhagen)
+* [Helsingør Ironman](https://www.ironman.com/races/im703-elsinore)
 
 ## Moving 🚆
 
@@ -182,6 +202,8 @@ If you come across a local e-commerce site and you're unsure about its trustwort
 * [Kinto](https://www.kinto-mobility.eu/dk/da)
 
 ### Taxi 🚕
+
+**Note:** [In May 2025, Uber bought Dantaxi, Denmark’s largest taxi company](https://www.dr.dk/nyheder/indland/uber-har-koebt-danmarks-stoerste-taxaselskab).
 
 * [Taxa](https://taxa.dk/en/)
 * [DanTaxi](https://dantaxi.dk/english/)
@@ -306,3 +328,4 @@ It's not over yet. It became a new trend for every building or construction site
 * [Pronunciation](https://duda.dk/video/dansk/udtale/)
 * [Danish Here and Now, _Dansk Her og Nu_](https://danskherognu.dk/)
 * [How to be polite](https://www.kbh-sprogcenter.dk/en/blog/polite-in-danish/)
+* [Dansk i ørerne – podcast](https://danskioererne.dk/)
