@@ -330,3 +330,8 @@ It's not over yet. It became a new trend for every building or construction site
 * [Danish Here and Now, _Dansk Her og Nu_](https://danskherognu.dk/)
 * [How to be polite](https://www.kbh-sprogcenter.dk/en/blog/polite-in-danish/)
 * [Dansk i ørerne – podcast](https://danskioererne.dk/)
+
+## Finance & Banking 💰
+
+* [Best Bank Accounts for Expats in Denmark 2026](https://nordicexpat.com/denmark/best-bank-account-denmark-expat) 🇬🇧 _Lunar, Wise and Nordea compared — options that work before CPR arrives_
+* [Lunar Bank Denmark Review](https://nordicexpat.com/denmark/lunar-bank-review) 🇬🇧 _Open a fully licensed Danish bank account in 15 minutes via app, no CPR required_
