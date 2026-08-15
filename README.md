@@ -47,6 +47,7 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Tjek Bil](https://www.tjekbil.dk/) _Check car plate_
 * [Frivilligjob](https://frivilligjob.dk/about-volunteering.html?sprog=en-GB) _Find a volunteer job_
 * [Daily pollen](https://www.astma-allergi.dk/dagens-pollental/)
+* [NordicExpat](https://nordicexpat.com) _English guides for expats in Denmark: CPR, bank accounts, MitID, tax, housing, healthcare — all based on official sources_ 🇬🇧
 * [Buying a House in Denmark as Expat](https://marioscian.medium.com/buying-an-apartment-in-denmark-as-a-foreigner-all-you-need-to-know-b66a9876a13)
 * [Tjek dit net](https://tjekditnet.dk) _Compare internet providers_
 * [Elpris](https://elpris.dk) _Compare electricity prices_
