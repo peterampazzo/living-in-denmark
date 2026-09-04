@@ -374,5 +374,5 @@ It's not over yet. It became a new trend for every building or construction site
 * [DR Ligetil](https://www.dr.dk/ligetil) _News written in accessible Danish_
 * [Pronunciation](https://duda.dk/video/dansk/udtale/)
 * [Danish Here and Now, _Dansk Her og Nu_](https://danskherognu.dk/)
-* [How to be polite](https://www.kbh-sprogcenter.dk/en/blog/polite-in-danish/)
+* ~~[How to be polite](https://www.kbh-sprogcenter.dk/en/blog/polite-in-danish/)~~
 * [Dansk i ørerne – podcast](https://danskioererne.dk/)
