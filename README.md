@@ -47,6 +47,7 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Tjek Bil](https://www.tjekbil.dk/) _Check car plate_
 * [Frivilligjob](https://frivilligjob.dk/about-volunteering.html?sprog=en-GB) _Find a volunteer job_
 * [Daily pollen](https://www.astma-allergi.dk/dagens-pollental/)
+* [NordicExpat](https://nordicexpat.com) _English guides for expats in Denmark: CPR, bank accounts, MitID, tax, housing, healthcare — all based on official sources_ 🇬🇧
 * [Buying a House in Denmark as Expat](https://marioscian.medium.com/buying-an-apartment-in-denmark-as-a-foreigner-all-you-need-to-know-b66a9876a13)
 * [Tjek dit net](https://tjekditnet.dk) _Compare internet providers_
 * [Elpris](https://elpris.dk) _Compare electricity prices_
@@ -376,3 +377,8 @@ It's not over yet. It became a new trend for every building or construction site
 * [Danish Here and Now, _Dansk Her og Nu_](https://danskherognu.dk/)
 * ~~[How to be polite](https://www.kbh-sprogcenter.dk/en/blog/polite-in-danish/)~~
 * [Dansk i ørerne – podcast](https://danskioererne.dk/)
+
+## Finance & Banking 💰
+
+* [Best Bank Accounts for Expats in Denmark 2026](https://nordicexpat.com/denmark/best-bank-account-denmark-expat) 🇬🇧 _Lunar, Wise and Nordea compared — options that work before CPR arrives_
+* [Lunar Bank Denmark Review](https://nordicexpat.com/denmark/lunar-bank-review) 🇬🇧 _Open a fully licensed Danish bank account in 15 minutes via app, no CPR required_
